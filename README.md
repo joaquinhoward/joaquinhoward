@@ -21,11 +21,11 @@
 
 # 🚀 Projects
 
-* **[Tutorial Requests Platform](https://tutor.dcism.org/)** *(Deployed)
+* **[Tutorial Requests Platform](https://tutor.dcism.org/)** *(cooking)
 
 
-* **[Internship Tracker Website](https://intmanage.up.railway.app/)** *(Processing / In Development)*
-* **[Developer Portfolio](https://portfolio-app-dev.up.railway.app/)** *(Processing / In Development)*
+* **[Internship Tracker Website](https://intmanage.up.railway.app/)** *(cooking / In Development)*
+* **[Developer Portfolio](https://portfolio-app-dev.up.railway.app/)** *(cooking / In Development)*
 * **[Blog Website](https://anima-analysis.dcism.org/)** *(GE-FREELEC Project)
 * **[Car Rental Website Prototype](https://lakbailakbai.dcism.org/)** *(Information Management 2 Group Project)*
   
